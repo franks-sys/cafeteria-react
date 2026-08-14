@@ -13,3 +13,4 @@ function Sobre(){
         </section>
     )
 }
+export default Sobre
